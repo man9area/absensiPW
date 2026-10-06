@@ -1,0 +1,14 @@
+{
+  "name": "Ruang Hadir — Absensi Pegawai",
+  "short_name": "Ruang Hadir",
+  "description": "Absensi pegawai berbasis lokasi, waktu, dan foto.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f3",
+  "theme_color": "#10251f",
+  "lang": "id",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
